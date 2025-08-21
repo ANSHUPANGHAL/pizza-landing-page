@@ -12,11 +12,11 @@ This app allows users to browse pizzas, customize size, crust, toppings, and pla
 . Fully responsive (Mobile, Tablet, Desktop)
 
 -->Landing Page
-<img width="1470" height="956" alt="Screenshot 2025-08-21 at 8 05 31 AM" src="https://github.com/user-attachments/assets/1ff77cb0-c247-483a-8a76-0b6f20414d18" />
+<img width="500" height="450" alt="Screenshot 2025-08-21 at 8 05 31 AM" src="https://github.com/user-attachments/assets/1ff77cb0-c247-483a-8a76-0b6f20414d18" />
 
 
 -->Pizza Customization
-<img width="1470" height="956" alt="Screenshot 2025-08-21 at 8 04 47 AM" src="https://github.com/user-attachments/assets/2bfd0e91-08e8-4931-9a84-76aa90e56377" />
+<img width="500" height="450" alt="Screenshot 2025-08-21 at 8 04 47 AM" src="https://github.com/user-attachments/assets/2bfd0e91-08e8-4931-9a84-76aa90e56377" />
 
 
 🛠️ Tech Stack
